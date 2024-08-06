@@ -8,10 +8,8 @@ Hello, I'm Mark Tran, a computational researcher with experience in machine lear
 - Currently looking for a permanent Data Scientist position in UK.
 
 ### 🛠️ Tools
-- Python
-- R
-- SQL
-- Git
+- Language: Python, R, SQL
+- Database: MySQL
 
 ### 📚 Projects
 Check out my [portfolio](https://marktranhs.github.io), where I showcase my projects!
