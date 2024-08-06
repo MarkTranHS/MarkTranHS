@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🙋‍♂️ Introducing Myself
 
-<!--
-**MarkTranHS/MarkTranHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![matchabanner](https://github.com/user-attachments/assets/af8bd11d-27ce-4b91-9d86-d9c599483478)
 
-Here are some ideas to get you started:
+Hello, I'm Mark Tran, a computational researcher with experience in machine learning and tool development for transforming complex data into smart insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Recently completed my PhD in Bioinformatics / Cancer Research at UCL.
+- Currently looking for a permanent Data Scientist position in UK.
+
+### 🛠️ Tools
+- Python
+- R
+- SQL
+- Git
+
+### 📚 Projects
+Check out my [portfolio](https://marktranhs.github.io), where I showcase my projects!
+
+
+### 👋 Socials
+- [LinkedIn](http://linkedin.com/in/marktranhs)
+- [Twitter](https://x.com/MarkTranHS)
+- [GitHub](http://github.com/MarkTranHS)
