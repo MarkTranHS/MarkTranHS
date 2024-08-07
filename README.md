@@ -16,6 +16,7 @@ Check out my [portfolio](https://marktranhs.github.io), where I showcase my proj
 
 
 ### 👋 Socials
+- [Email](mailto:marktranhs@gmail.com)
 - [LinkedIn](http://linkedin.com/in/marktranhs)
 - [Twitter](https://x.com/MarkTranHS)
 - [GitHub](http://github.com/MarkTranHS)
